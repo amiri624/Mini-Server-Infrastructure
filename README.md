@@ -189,6 +189,6 @@ chmod +x backup.sh
 
 ### 💻 Author
 
-Meisam Amiri
+M-A
 Linux System Administrator | DevOps Enthusiast
 
