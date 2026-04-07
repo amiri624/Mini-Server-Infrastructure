@@ -1,9 +1,9 @@
 # Mini-Server-Infrastructure
 
 Markdown
-```bash
-# 🐧 Docker-Based Linux Infrastructure
 
+# 🐧 Docker-Based Linux Infrastructure
+```bash
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Ubuntu-orange">
   <img src="https://img.shields.io/badge/Docker-Container-blue">
@@ -12,9 +12,9 @@ Markdown
 </p>
 
 ---
-
+```
 ## 📌 Overview
-
+```bash
 This project demonstrates a simple but realistic **container-based infrastructure** using Docker and Docker Compose.
 
 It simulates a production-like environment including:
@@ -25,9 +25,9 @@ It simulates a production-like environment including:
 💡 Built to showcase hands-on skills in **Linux Administration & DevOps fundamentals**
 
 ---
-
-## 🏗️ Architecture
 ```
+## 🏗️ Architecture
+
 ```bash
     ┌────────────────────┐
     │     Browser        │
