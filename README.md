@@ -74,6 +74,7 @@ It simulates a production-like environment including:
 ```bash
 docker-compose up -d
 ```
+```
 ## Check running containers
 ```bash
 docker ps
