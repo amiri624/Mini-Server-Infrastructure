@@ -46,30 +46,27 @@ It simulates a production-like environment including:
     │    (Database)      │
     └────────────────────┘
 ```
-```bash
----
 
 ## ⚙️ Technologies
-
+```bash
 - 🐳 Docker & Docker Compose
 - 🌐 Nginx
 - 🗄️ MySQL
 - 🐧 Linux
 
 ---
-
-## 📁 Project Structure
 ```
+## 📁 Project Structure
+
 # my-project/
 ├── docker-compose.yml
 ├── README.md
-```bash
----
+
 
 ## 🚀 Getting Started
 
 ### Start the project
-```
+
 ```bash
 docker-compose up -d
 ```
