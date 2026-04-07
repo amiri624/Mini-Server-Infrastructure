@@ -70,7 +70,7 @@ It simulates a production-like environment including:
 ## 🚀 Getting Started
 
 ### Start the project
-
+```
 ```bash
 docker-compose up -d
 ```
