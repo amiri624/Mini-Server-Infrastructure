@@ -63,6 +63,7 @@ It simulates a production-like environment including:
 ├── docker-compose.yml
 ├── README.md
 
+---
 
 ## 🚀 Getting Started
 
