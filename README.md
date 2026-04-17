@@ -1,7 +1,6 @@
 # Mini-Server-Infrastructure
 
 Markdown
-
 # 🐧 Docker-Based Linux Infrastructure
 ```bash
 <p align="center">
