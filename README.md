@@ -22,8 +22,8 @@ It simulates a production-like environment including:
 - Service orchestration
 
 💡 Built to showcase hands-on skills in **Linux Administration & DevOps fundamentals**
-
 ---
+
 ```
 ## 🏗️ Architecture
 
